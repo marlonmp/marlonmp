@@ -10,7 +10,7 @@ I'm a backend developer, I'm very fond of computer science, I like to learn new 
 
 ## My tools
 
-**Linux:** I always use Linux as my main Operative System for working, mainly fedora or ubuntu distributions.
-**Zed:** I used to use vscode as the main editor but now I use Zed, it is faster and simpler.
-**Postgres:** I have been working with Postgres as my primary database in every project and usually is the only database I use.
-**Redis:** In cases I need cache data I prefer to use Redis, it's the most common and easy to implement cache.
+- **Linux:** I always use Linux as my main Operative System for working, mainly fedora or ubuntu distributions.
+- **Zed:** I used to use vscode as the main editor but now I use Zed, it is faster and simpler.
+- **Postgres:** I have been working with Postgres as my primary database in every project and usually is the only database I use.
+- **Redis:** In cases I need cache data I prefer to use Redis, it's the most common and easy to implement cache.
